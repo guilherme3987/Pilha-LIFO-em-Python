@@ -36,5 +36,3 @@ A interface gráfica permite ao usuário interagir com a pilha por meio dos segu
 
 - Python 3.x
 - Biblioteca `tkinter` (geralmente incluída na instalação padrão do Python)
-
-
