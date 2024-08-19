@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# Funções para manipular a pilha
-pilha = []
 
+pilha = []
+# Funções para manipular a pilha
 def criando_pilha():
     global pilha
     pilha = []
