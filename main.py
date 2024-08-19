@@ -38,7 +38,11 @@ def operar_pilha():
 # Criar a interface gráfica
 root = tk.Tk()
 root.title("Interface da Pilha LIFO")
+# Definir o tamanho fixo da janela
+root.geometry("300x200")  # Largura x Altura
 
+# Impedir redimensionamento da janela
+root.resizable(False, False)
 # Criar e organizar os widgets
 texto_pilha = tk.StringVar()
 texto_pilha.set("Pilha Atual: []")
