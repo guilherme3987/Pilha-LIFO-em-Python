@@ -58,3 +58,7 @@ botao_operar.pack(pady=5)
 
 # Inicializa a interface gráfica
 root.mainloop()
+
+'''
+Adicionar operações clássas de uma pilha (como push, pop, peek, e verificar se a pilha está vazia)
+'''
